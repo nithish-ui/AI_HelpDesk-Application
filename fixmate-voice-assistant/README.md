@@ -1,4 +1,4 @@
- # FixMate: Multilingual Voice Assistant for Appliance Troubleshooting
+ #AI_HelpDesk-Application
 
 
 
@@ -101,4 +101,5 @@ FixMate is a real-time, voice-first virtual assistant designed to help users tro
    b. Searches manuals for relevant troubleshooting steps (RAG) 
    c. Generates a concise answer (LLM)
    d. Converts the answer to speech (TTS)
+
 
